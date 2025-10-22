@@ -1,9 +1,9 @@
-# Commercial License (JetCourier)
+# Commercial License (PostJet)
 
 Copyright (c) 2025 Gian Paolo Santopaolo
 
 **1. Definitions.**
-“**Software**” means the JetCourier code and accompanying materials.
+“**Software**” means the PostJet code and accompanying materials.
 “**Commercial Use**” means any use by or for a for-profit entity, or in connection with providing products or services for a fee, internal business operations of a for-profit entity, or deployment in production or customer-facing environments.
 “**Noncommercial Use**” is governed by the PolyForm Noncommercial 1.0.0 license in this repository.
 
